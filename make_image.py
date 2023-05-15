@@ -11,7 +11,7 @@ text = "暗黙の型宣言"
 
 # 画像サイズ，背景色，フォントの色を設定
 canvasSize    = (300, 150)
-backgroundRGB = (255, 255, 255)
+backgroundRGB = (0, 255, 0)
 textRGB       = (0, 0, 0)
 
 # 文字を描く画像の作成
